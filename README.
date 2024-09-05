@@ -1,0 +1,21 @@
+HR Analytics Project - Power BI
+This repository contains an HR Analytics Project that focuses on deriving insights from human resource data using Power BI. The project involves visualizing and analyzing key HR metrics, allowing management to make data-driven decisions regarding workforce planning and employee management.
+
+Project Overview
+The objective of this project is to explore various HR-related datasets and create interactive dashboards for effective analysis. Some of the key metrics covered include:
+
+Attrition Rates: Understanding employee turnover and its impact.
+Talent Acquisition: Analyzing recruitment performance and efficiency.
+Employee Demographics: Insights into the composition of the workforce.
+Performance & Productivity: Evaluation of employee performance over time.
+Retention Strategies: Identifying patterns and areas for improvement in employee retention.
+Tools Used
+Power BI: For data modeling, visualization, and reporting.
+Excel: For initial data cleaning and transformation.
+DAX (Data Analysis Expressions): For advanced calculations and metrics.
+Power Query: To automate data loading and transformation.
+Key Features
+Interactive dashboards with dynamic filtering options.
+Drill-through capabilities for in-depth analysis.
+Trend analysis and forecasting of HR metrics.
+Visual storytelling with data to support strategic decision-making
