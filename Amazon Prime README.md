@@ -1,4 +1,5 @@
 Amazon Prime Dashboard Project
+
 Overview
 This project focuses on analyzing Amazon Prime data using Power BI to create an interactive dashboard. The dashboard provides insights into customer behavior, content consumption, and key performance metrics of Amazon Prime's content library. It visualizes trends and patterns, offering valuable information for decision-making and strategic planning.
 
